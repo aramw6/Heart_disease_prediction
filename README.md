@@ -2,10 +2,10 @@
 This project aims to predict the likelihood of heart disease in patients based on various health indicators. Using a dataset containing medical records, several machine learning algorithms were applied to build a robust predictive model.
 
 Features:
-Age: Age of the patient.
-Sex: Gender of the patient (1 = male; 0 = female).
-Chest Pain Type (cp): Type of chest pain experienced by the patient.
-Resting Blood Pressure (trestbps): Patient's resting blood pressure.
+- Age: Age of the patient.
+-Sex: Gender of the patient (1 = male; 0 = female).
+-Chest Pain Type (cp): Type of chest pain experienced by the patient.
+-Resting Blood Pressure (trestbps): Patient's resting blood pressure.
 Serum Cholesterol (chol): Serum cholesterol level in mg/dl.
 Fasting Blood Sugar (fbs): Fasting blood sugar > 120 mg/dl (1 = true; 0 = false).
 Resting ECG (restecg): Resting electrocardiographic results.
